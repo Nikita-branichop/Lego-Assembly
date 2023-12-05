@@ -10,5 +10,4 @@
 <img width="404px" src="Pig-And-Zombie-Minecraft/Pig_and_Zombie_Minecraft.png"/>
 <img width="404px" src="Podracer-StarWars/Podracer_StarWars.png"/>
 <img width="404px" src="Rabbit-China-NewYear/Rabbit_China_NewYear.png"/>
-<img width="404px" src="Lamborgini/Lamborgini.png"/>
 </div>
